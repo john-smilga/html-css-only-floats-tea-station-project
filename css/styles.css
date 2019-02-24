@@ -238,7 +238,7 @@ a {
 .skill-text {
   line-height: 1.5;
   font-size: 16px;
-  width: 70%;
+  max-width: 13rem;
   margin: 0 auto;
 }
 .skill:hover {
